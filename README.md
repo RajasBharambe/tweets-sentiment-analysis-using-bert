@@ -4,7 +4,7 @@
 | Streak Days | Work Done | Completion Status |
 | :-:| -- | :-: | 
 | Day 1 :fire: | Explored dataset and added .ipynb file |✔|
-| Day 2 :fire: | 
+| Day 2 :fire: | Updated .ipynb file |✔|
 | Day 3 :fire: |
 | Day 4 :fire: | 
 | Day 5 :fire: |

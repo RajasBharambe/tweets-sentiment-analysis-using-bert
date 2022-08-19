@@ -1,4 +1,4 @@
-## tweets-sentiment-analysis-using-bert
+## tweets sentiment analysis using bert
 
 The repo contains a tweet sentiment file and a IPython Notebook which contains the implementations of the project.
 It contains the following implementations:

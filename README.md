@@ -21,4 +21,4 @@ Task 8: Defining our Performance Metrics.
 
 Task 9: Creating our Training Loop.
 
-Task 10: Loading and Evaluating our Model
+Task 10: Loading and Evaluating our Model.
